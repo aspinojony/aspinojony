@@ -1,63 +1,35 @@
 <!--
   GitHub Profile README — aspinojony
-  Shown on https://github.com/aspinojony
+  https://github.com/aspinojony
 -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=56&lines=Hi%2C+I'm+Jony+(Ouyang+Ziheng);Python+Backend+%C2%B7+SDET+%C2%B7+AI+Apps;Build+runnable+systems%2C+not+slideware" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=56&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Jony;%E5%90%8E%E7%AB%AF+%C2%B7+%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91+%C2%B7+AI+%E5%BA%94%E7%94%A8;%E5%81%9A%E8%83%BD%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84%E7%B3%BB%E7%BB%9F" alt="Typing SVG" />
 
   <p>
-    <strong>2026 届 · 计算机科学与技术 · 内蒙古科技大学</strong><br/>
-    CS graduate (2026) · Inner Mongolia University of Science & Technology
+    <strong>关注 Python 后端 · 测试开发 · 可观测运维 · LLM 应用工程</strong>
   </p>
 
   <p>
     <a href="https://github.com/aspinojony"><img src="https://img.shields.io/badge/GitHub-aspinojony-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://github.com/aspinojony?tab=repositories"><img src="https://img.shields.io/badge/Repos-28+-0ea5e9?style=for-the-badge&logo=git&logoColor=white" alt="Repos"/></a>
-    <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20QA%20%7C%20AI-22d3ee?style=for-the-badge" alt="Focus"/>
-    <img src="https://komarev.com/ghpvc/?username=aspinojony&style=for-the-badge&color=22d3ee&label=Profile+views" alt="Profile views"/>
-  </p>
-
-  <p>
-    🇨🇳 中文 &nbsp;·&nbsp; 🇺🇸 English<br/>
-    把服务真正跑起来 · Prefer runnable systems over screenshots
+    <img src="https://img.shields.io/badge/%E6%96%B9%E5%90%91-Backend%20%7C%20QA%20%7C%20AI-22d3ee?style=for-the-badge" alt="Focus"/>
+    <img src="https://komarev.com/ghpvc/?username=aspinojony&style=for-the-badge&color=22d3ee&label=%E8%AE%BF%E9%97%AE" alt="Profile views"/>
   </p>
 
 </div>
 
 ---
 
-## About me · 关于我
+## 关于我
 
-<table>
-<tr>
-<td width="50%">
-
-**中文**
-
-- 🎓 计算机专业，专业排名前 **20%**
-- 🏆 连续三年校奖学金 · 自治区励志奖学金
-- 💻 方向：**Python 后端** · **测试开发 / SDET** · **可观测运维** · **LLM 应用**
-- 🔧 喜欢可部署、可观测、有 CI 的完整链路，而不是课设截图
-
-</td>
-<td width="50%">
-
-**English**
-
-- 🎓 CS major, top **20%** in program
-- 🏆 University scholarships (3 yrs) · regional inspirational award
-- 💻 Focus: **Python backend** · **SDET / QA** · **ops labs** · **LLM apps**
-- 🔧 Prefer deployable systems with CI & observability, not slide-only demos
-
-</td>
-</tr>
-</table>
+- 更在意把服务真正跑起来：能部署、有日志/监控、有自动化，而不是只做演示截图
+- 日常折腾：Python 后端、接口与自动化测试、Docker 运维实验、LLM 相关小工具
+- 学习与实践同步，持续在 GitHub 上沉淀可复用的项目
 
 ---
 
-## Tech stack · 技术栈
+## 技术栈
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -77,21 +49,20 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-| Layer | Tools |
+| 分层 | 内容 |
 | :---: | :--- |
-| **Languages** | Python · TypeScript/JavaScript · Shell · SQL |
-| **Backend** | FastAPI · REST · MySQL · Redis · schedulers · third-party APIs |
-| **QA** | pytest · Postman · YAML data-driven · Allure · DB asserts · CI |
-| **Ops** | Docker Compose · Nginx · Prometheus · Grafana · health probes · runbooks |
-| **Frontend** | Next.js · Vue · modern UI practice |
-| **AI / CV** | LLM API integration · OpenCV · driver-monitoring pipelines |
+| **语言** | Python · TypeScript / JavaScript · Shell · SQL |
+| **后端** | FastAPI · REST · MySQL · Redis · 定时任务 · 第三方 API |
+| **测试** | pytest · Postman · 数据驱动 · Allure · 数据库断言 · CI |
+| **运维** | Docker Compose · Nginx · Prometheus · Grafana · 健康检查 · Runbook |
+| **前端** | Next.js · Vue |
+| **AI / CV** | LLM API 接入 · OpenCV · 视觉检测类实践 |
 
 ---
 
-## Featured projects · 精选项目
+## 精选项目
 
-> 优先看这些仓库；fork / 实验仓库不代表当前方向。  
-> Prefer Featured repos below; archived forks are not the main focus.
+> 优先看这些仓库；fork / 临时实验不代表当前方向。
 
 <table>
 <tr>
@@ -99,26 +70,20 @@
 
 ### 🔐 Grok Credential Manager
 [![stars](https://img.shields.io/github/stars/aspinojony/grok-credential-manager?style=flat-square)](https://github.com/aspinojony/grok-credential-manager)
-[![Python](https://img.shields.io/badge/Python-FastAPI-3776AB?style=flat-square)](https://github.com/aspinojony/grok-credential-manager)
 
 **[grok-credential-manager](https://github.com/aspinojony/grok-credential-manager)**  
 
-SuperGrok / xAI 多账号 OAuth 池 · 多中转同步 · 周额度 · 告警 · Free 额度自动化  
-
-Multi-account OAuth pool, multi-relay sync, weekly quota, alerts & free-tier automation.
+xAI / SuperGrok 多账号 OAuth 池 · 多中转同步 · 周额度 · 告警 · Free 额度自动化
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧪 API 测试作品集
 [![stars](https://img.shields.io/github/stars/aspinojony/api-test-practice?style=flat-square)](https://github.com/aspinojony/api-test-practice)
-[![pytest](https://img.shields.io/badge/pytest-CI-0A9EDC?style=flat-square)](https://github.com/aspinojony/api-test-practice)
 
 **[api-test-practice](https://github.com/aspinojony/api-test-practice)**  
 
-Postman + pytest · YAML 数据驱动 · DB 断言 · Allure · JMeter · GitHub Actions  
-
-Ecommerce API testing portfolio with full automation & CI.
+Postman + pytest · YAML 数据驱动 · DB 断言 · Allure · JMeter · GitHub Actions
 
 </td>
 </tr>
@@ -130,44 +95,38 @@ Ecommerce API testing portfolio with full automation & CI.
 
 **[payflow-qa-portfolio](https://github.com/aspinojony/payflow-qa-portfolio)**  
 
-支付主路径测试设计 · 接口自动化 · 缺陷分析 · SQL 校验  
-
-Payment core-path QA portfolio.
+支付主路径测试设计 · 接口自动化 · 缺陷分析 · SQL 校验
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 企业级可观测实验
+### 📡 可观测运维实验
 [![stars](https://img.shields.io/github/stars/aspinojony/enterprise-ops-lab?style=flat-square)](https://github.com/aspinojony/enterprise-ops-lab)
 
 **[enterprise-ops-lab](https://github.com/aspinojony/enterprise-ops-lab)**  
 
-多服务订单 Lab · 探针 · Prometheus/Grafana · 故障 Runbook · 备份与冒烟  
-
-Production-like ops lab with observability & incident practice.
+多服务订单 Lab · 探针 · Prometheus / Grafana · 故障 Runbook · 备份与冒烟
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 毕设 · 驾驶员监测
+### 🚗 驾驶员监测实践
 [![stars](https://img.shields.io/github/stars/aspinojony/Driver-Monitoring-System-v8?style=flat-square)](https://github.com/aspinojony/Driver-Monitoring-System-v8)
 
 **[Driver-Monitoring-System-v8](https://github.com/aspinojony/Driver-Monitoring-System-v8)**  
 
-Python / OpenCV 疲劳与危险行为检测 · 帧处理 · 预警流程  
-
-Graduation project: driver fatigue & risk behavior detection.
+Python / OpenCV · 疲劳与危险行为检测 · 帧处理与预警流程
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 全栈 / Web
 - **[aphelion-pulsar](https://github.com/aspinojony/aphelion-pulsar)** — Next.js 博客 · 社交 · 知识星系  
-- **[nomalproject](https://github.com/aspinojony/nomalproject)** — 计算机考研学习平台  
-- **[DomeShieldWisdomMine](https://github.com/aspinojony/DomeShieldWisdomMine)** — Vue 智慧矿山看板  
-- **[library-system](https://github.com/aspinojony/library-system)** — PyQt5 + MySQL / Redis 图书系统  
+- **[nomalproject](https://github.com/aspinojony/nomalproject)** — 学习类 Web 平台  
+- **[DomeShieldWisdomMine](https://github.com/aspinojony/DomeShieldWisdomMine)** — Vue 可视化看板  
+- **[library-system](https://github.com/aspinojony/library-system)** — PyQt5 + MySQL / Redis 管理端  
 
 </td>
 </tr>
@@ -175,10 +134,10 @@ Graduation project: driver fatigue & risk behavior detection.
 
 ---
 
-## GitHub stats · 数据看板
+## GitHub 数据
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aspinojony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aspinojony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspinojony&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
 </div>
 
@@ -192,47 +151,30 @@ Graduation project: driver fatigue & risk behavior detection.
 
 ---
 
-## Looking for · 当前目标
+## 方向
 
-<div align="center">
+持续打磨：
 
-| 🇨🇳 | 🇺🇸 |
-| :---: | :---: |
-| **Python 后端** | Python backend |
-| **测试开发 / SDET** | SDET / QA automation |
-| **后端工程** | Backend engineering |
-| **AI 应用开发** | AI application development |
-
-</div>
-
-开放实习 / 校招相关机会 · Open to internships & new-grad roles.
+- **Python 后端**（API、调度、集成）
+- **测试开发 / 自动化**（接口、数据校验、CI）
+- **运维可观测**（Compose、监控、演练）
+- **AI 应用工程**（把模型能力接到真实工作流里）
 
 ---
 
-## Contact · 联系
+## 链接
 
 <div align="center">
 
-  📫 **GitHub** → [github.com/aspinojony](https://github.com/aspinojony)  
-  🌐 **Site** → [aspinojony.github.io](https://aspinojony.github.io)
-
-  <br/>
-
-  <img src="https://quote-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+  📫 [github.com/aspinojony](https://github.com/aspinojony)  
+  🌐 [aspinojony.github.io](https://aspinojony.github.io)
 
 </div>
 
 ---
 
 <div align="center">
-
-  <sub>
-    📌 Pin your best repos in GitHub settings for the homepage grid ·  
-    在 GitHub 设置里 Pin 精选仓库，主页卡片会更好看
-  </sub>
-
+  <sub>建议在 GitHub 设置里 Pin 精选仓库，主页项目卡片会更整齐</sub>
   <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E7490,100:22D3EE&height=120&section=footer" width="100%" alt="footer wave"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E7490,100:22D3EE&height=100&section=footer" width="100%" alt="footer"/>
 </div>
